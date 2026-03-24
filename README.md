@@ -112,11 +112,6 @@ Expected accuracy after fine-tuning: around **97–99%** on ISOT, slightly lower
 
 ---
 
-## 📊 App Screenshots
-
-> *(add your own screenshots here — people really do judge projects by how they look)*
-
----
 
 ## ⚠️ Honest Limitations
 
