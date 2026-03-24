@@ -55,7 +55,7 @@ BERT reads the entire sentence at once (not word by word), so it understands con
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/fakeshield.git
+git clone https://github.com/yourusername/fake-news-detector.git
 cd fakeshield
 ```
 
