@@ -1,0 +1,23 @@
+# FakeShield — Fake News Detector
+# Python 3.8+ recommended
+
+# Core ML
+torch>=2.0.0
+transformers>=4.35.0
+tokenizers>=0.15.0
+
+# Streamlit UI
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization (for training)
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Utilities
+tqdm>=4.66.0
